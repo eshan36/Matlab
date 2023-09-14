@@ -1,3 +1,4 @@
+%it will make a picture blurred
 function output=blur2(img,w)
 [a b]=size(img);
 for ii=1:a
